@@ -1,0 +1,8 @@
+﻿@{
+    ViewData["Title"] = "Generate QR Code";
+}
+
+<h1>Generate QR Code</h1>
+
+<img alt="Embedded QR Code" style='width:250px; height:250px'
+     src="data:image/@TempData["imgType"];base64,@Html.Raw(TempData["qrCodeImageAsBase64"])" />

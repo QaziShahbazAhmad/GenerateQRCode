@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "29twV1pmFMujBJLC3DQoUt4kB6YftPGE+P6pWXiSMRY1TDenGwTegfOhNi7HUSO/uqbPqNiN3n0nm6DSwbps7w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GenerateQRCode\\GenerateQRCode\\GenerateQRCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shahbaz\\.nuget\\packages\\qrcoder-imagesharp\\0.9.0\\qrcoder-imagesharp.0.9.0.nupkg.sha512",
+    "C:\\Users\\Shahbaz\\.nuget\\packages\\sixlabors.imagesharp\\2.0.0\\sixlabors.imagesharp.2.0.0.nupkg.sha512",
+    "C:\\Users\\Shahbaz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shahbaz\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
